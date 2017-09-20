@@ -10,6 +10,8 @@
 
 ## Usage
 
+![Image](https://imgur.com/GJgQtOG)
+
 1. Save your current file.
 2. Go to the render panel and hit **Frame** or **Animation** to create the corresponding command.
 3. Click the button on the right to copy the created command.
