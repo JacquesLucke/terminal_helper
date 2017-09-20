@@ -15,3 +15,9 @@
 3. Click the button on the right to copy the created command.
 4. Open a terminal (search for `cmd` on Windows).
 5. Paste the command and hit enter.
+
+## Troubleshooting
+
+I noticed on Linux that I can't paste the command into the terminal. To solve the problem you can paste it into a text editor first and copy it again.
+
+I did not test it on macOS so far. 
