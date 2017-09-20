@@ -5,7 +5,7 @@ bl_info = {
     "version": (0, 0, 1),
     "blender": (2, 79, 0),
     "location": "Render",
-    "warning": "This addon is still in development.",
+    "warning": "",
     "wiki_url": "",
     "category": "Object" }
 
