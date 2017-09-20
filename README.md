@@ -10,7 +10,7 @@
 
 ## Usage
 
-![Image](https://imgur.com/GJgQtOG)
+![Image](https://i.imgur.com/GJgQtOG.png)
 
 1. Save your current file.
 2. Go to the render panel and hit **Frame** or **Animation** to create the corresponding command.
